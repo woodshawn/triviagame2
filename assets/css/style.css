@@ -1,0 +1,29 @@
+.container{
+    background-image: url(../images/celebration1.jpg);
+    background-repeat: no-repeat;
+    width: 2000px;
+    height: 1200px;
+}
+#Rect1 {
+    background-color: aqua;
+    width: 700px ;
+    height: 800px;
+    position: relative;
+    margin-left: 200px;
+}
+
+#thirdpart{
+    display: none;
+}
+#submitbutton{
+    display: none;
+}
+#questionnaire{
+    display: none;
+}
+#startbutton{
+    background-color: blueviolet;
+    font-size: 30px;
+    padding: 14px;
+    margin-left: 200px;
+}
